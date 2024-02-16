@@ -1,0 +1,1 @@
+.timeline-item{position:relative}.timeline-item+.timeline-item{margin-top:60px}.timeline-item__description{margin-top:8px}.timeline-item:before{content:"";width:10px;height:10px;border-radius:50%;background:#fff;display:block;position:absolute;left:-41px;top:9px}@media print{.timeline-item:before{background:#000}}
