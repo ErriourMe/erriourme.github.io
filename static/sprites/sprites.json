@@ -1,0 +1,19 @@
+[
+  {
+    "name": "main",
+    "defaultSprite": false,
+    "symbols": [
+      "arrow",
+      "behance",
+      "en",
+      "github",
+      "instagram",
+      "linkedin",
+      "ru",
+      "stackoverflow",
+      "telegram",
+      "twitch",
+      "vk"
+    ]
+  }
+]
